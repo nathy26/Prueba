@@ -5,7 +5,7 @@ use \Illuminate\Support\Facades\Input;
 /**
  * Description of TransaccionController
  *
- * @author johnney
+ * @author nathy
  */
 class TransaccionController extends Controller{
     
